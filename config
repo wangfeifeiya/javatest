@@ -1,3 +1,53 @@
-{
 
+
+
+{
+	"money": {
+		"free_num": 5,
+		"free_flag": false,
+		"ver": 0,
+		"money_list": [{
+			"money_num": "1",
+			"play_num": "2"
+		}, {
+			"money_num": "5",
+			"play_num": "15"
+		}, {
+			"money_num": "20",
+			"play_num": "80"
+		}, {
+			"money_num": "50",
+			"play_num": "260"
+		}, {
+			"money_num": "100",
+			"play_num": "700"
+		}, {
+			"money_num": "200",
+			"play_num": "VIP(终生免费)"
+		}, {
+			"money_num": "888",
+			"play_num": "SVIP(软件代理)"
+		}],
+		"qq": {
+			"num": ["56996465", "489645648", "867468456"],
+			"photo": ["null"]
+		},
+		"wx": {
+			"num": ["wa1553532", "aax44577445", "naa4455444w"],
+			"photo": ["null"]
+		}
+	},
+	"update": {
+		"force": true,
+		"download_url": "null",
+		"ver": 2,
+		"info": "版本彻底更新\n全新视频资源",
+		"size": "12.3",
+		"ver_name": "2.0.0.1"
+	},
+	"server": {
+		"url": "null"
+	},
+	"stop": false
 }
+
